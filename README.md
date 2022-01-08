@@ -1,1 +1,1 @@
-# Image-Classifier--Deep-Learning-based-App.
+# Animal-Classifier-Deep-learning-based-project
